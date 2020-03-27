@@ -1,9 +1,4 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-
-# Environments
-.venv
-
-# Data
 data/
-
+*.log
+Pipfile.lock
+.vscode
